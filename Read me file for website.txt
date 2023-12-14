@@ -1,1 +1,32 @@
-I started to build this website on 14/12/2023
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Hi Deepash</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>About Hi Deepash</h1>
+    </header>
+
+    <section>
+        <p>Welcome to "Hi Deepash" – a friendly place on the web!</p>
+        <p>This website is a simple greeting to Deepash, created with the intention of spreading positivity and warmth. Whether you stumbled upon this page by chance or it was intentionally shared with you, we hope it brings a smile to your face.</p>
+        <p>Feel free to explore and share the good vibes!</p>
+    </section>
+
+    <footer>
+        <p>Contact us at: <a href="mailto:info@example.com">info@example.com</a></p>
+    </footer>
+
+</body>
+</html>
